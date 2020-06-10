@@ -7,6 +7,8 @@ var frameSpeed;
 var barHeightScale = 50;
 
 
+//
+
 
 /*removes all buttons after a array selection is made*/
 function removeButtons() {
